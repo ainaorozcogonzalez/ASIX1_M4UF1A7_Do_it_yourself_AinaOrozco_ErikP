@@ -1,5 +1,5 @@
 
-Mediante **estilos.css** se deberán de implementar las reglas siguientes:
+Mediante **style.css** se deberán de implementar las reglas siguientes:
 
 * Regla 1: El elemento `body`debe llevar un margen de `0px` con un relleno a la izquierda y a la derecha de un `12%`.
     
